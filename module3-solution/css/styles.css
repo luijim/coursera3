@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+
+#header-nav {
+  min-height: 100px;
+  margin: 0px;
+}
+
+.navbar-header {
+	margin-bottom: 30px;
+}
+
+#nav-list {
+	background: orange;
+	color: white;
+	margin: 0px;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: white;
+	font-weight: bold;
+}
+
+.container {
+	width: 100%
+}
+
+section {
+	min-height: 1000px;
+	background: gold;
+	margin: 30px;
+}
+
+p {
+	margin: 10px;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.5em;
+	text-align: center;
+}
